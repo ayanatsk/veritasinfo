@@ -1,0 +1,7 @@
+{
+  "name": "Veritas",
+  "description": "An AI-powered platform to protect users from fake news, disinformation, and deepfakes using advanced Gemini models.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
